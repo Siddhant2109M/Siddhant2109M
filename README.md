@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Java Backend Engineer with hands-on experience in building scalable web applications using Spring Boot, <br>Spring Core, JDBC, Spring Data JPA, and REST APIs. Skilled in Java, MySQL, Git, and GitHub with strong <br>understanding of backend development concepts and database management. Passionate about solving real-world <br>problems and continuously learning modern technologies including Spring AI and Generative AI.
+Aspiring Java Backend Engineer with hands-on experience in building scalable web applications using Spring Boot, <br>Spring Core, JDBC, Spring Data JPA, and REST APIs. Skilled in Java, PostgreSQL, Git, and GitHub with strong <br>understanding of backend development concepts and database management. Passionate about solving real-world <br>problems and continuously learning modern technologies including Spring AI and Generative AI.
 
 
 ## 🌐 Socials:
